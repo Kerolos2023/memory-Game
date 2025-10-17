@@ -4,8 +4,7 @@
 
 ## 🎮 Demo
 
-> 💻 [Live Demo Coming Soon]  
-> أو شغل اللعبة محليًا بفتح ملف `index.html` في متصفحك.
+> 💻 (https://fabulous-strudel-0fb630.netlify.app/)
 
 ## 🚀 Features
 
