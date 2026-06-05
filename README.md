@@ -4,7 +4,7 @@
 
 ## 🎮 Demo
 
-> 💻 (https://fabulous-strudel-0fb630.netlify.app/)
+> 💻 https://velvety-axolotl-464c45.netlify.app/
 
 ## 🚀 Features
 
